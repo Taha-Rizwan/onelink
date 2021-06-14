@@ -1,0 +1,39 @@
+.footer{
+  background-color: #1B1E23;
+  height: 30vh;
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  justify-content: space-between;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+.meh h1{
+  color: #4caf50;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+.meh p{
+  font-size: 25px;
+  margin-left: 15px;
+}
+.media{
+  font-size: 25px;
+}
+
+@media only screen and (max-width: 767px) {
+  .footer{
+    padding-top: 20px;
+    height: 20vh;
+  }
+  .meh h1 {
+    font-size: 25px;
+  }
+  .meh p{
+    margin-left: 0;
+    font-size: 15px;
+  }
+  .media{
+    font-size: 10px;
+  }
+}

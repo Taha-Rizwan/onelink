@@ -1,0 +1,135 @@
+.revow{
+  height: 100vh;
+  margin-top: -80px;
+  background: black;
+  position: relative;
+  z-index: 2;
+}
+.revowBg{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.revowImage{
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  filter: brightness(50%);
+}
+.review{
+  background-color: white;
+  margin-top: 100px;
+  height: 80vh;
+  width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  color: black;
+  overflow:hidden;
+}
+.review h1{ 
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  z-index: 5;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.review h5{
+  color: black;
+  z-index: 5;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+.days h6{
+  color: black;
+  z-index: 5;
+  font-size: 25px;
+  padding: 10px 20px;
+  border: 2px solid #4caf50;
+  margin: 10px;
+  cursor: pointer;
+}
+.days h6:hover{
+  background: #4caf50;
+  color: white;
+  transition: 0.4s cubic-bezier(0.075,0.82,0.165,1);
+}
+.selected{
+  color: white;
+  z-index: 5;
+  font-size: 25px;
+  padding: 10px 20px;
+  border: 2px solid #4caf50;
+  margin: 10px;
+  cursor: pointer;
+  background: #4caf50;
+}
+#waiting{
+  position:absolute;
+  color:white;
+  z-index: 5;
+  top: 100px;
+  display: none;
+  font-weight: bold;
+}
+.days{
+  display: flex;
+  flex-direction: row;
+  width: 80vw;
+  align-items: center;
+  justify-content: center;
+}
+.review h3{
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+.review button{
+  align-self: center;
+  height: 5vh;
+  width: 5vw;
+  margin-top: 10px;
+  margin-left: 37.5vw;
+  margin-right: 47.5vw;
+  color: white;
+  font-size: 30px;
+  border: none;
+  text-align: center;
+  background-color: #4caf50;
+  overflow: hidden;
+  cursor: pointer;
+}
+.confirm{
+  font-size: 20px;
+  padding: 15px;
+  text-align: center;
+  margin-left: 37vw;
+  margin-right: auto;
+  background-color: #4caf50;
+  cursor: pointer;
+  text-decoration: none;
+}
+.confirm:hover {
+  background-color: white;
+  border: 1px solid #4caf50;
+  color: #4caf50;
+  transition: 1s cubic-bezier(0.075,0.82,0.165,1);
+}
+@media only screen and (max-width:767px) {
+  .review button {
+    width: 10vw;
+    margin-left: 35vw;
+    margin-right: 45vw;
+  }
+  .confirm{
+    margin-left: 26vw;
+  }
+}

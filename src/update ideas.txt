@@ -1,0 +1,9 @@
+Make user accounts using mongo and localStorage
+onSignup===Send request to mongo, make new user, store user in localstorage and reroute to home page
+onSignup===Send request to mongo, find user, store user in localStorage and reroute to home page
+onLogout===Set user value in localStorage to ""
+If user logged in let him buy trips, if not reroute to home page.
+If user logged in show Account info, otherwise show signin/signup
+User needs to have a valid email, password, phone number, supported country and city.
+Push every trip bought by user into a history array in database for tracking and verification.
+Give user loyalty points for every trip (1 point(equal to 1rs) for every 1000rs spent).

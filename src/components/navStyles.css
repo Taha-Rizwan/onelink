@@ -1,0 +1,45 @@
+.nav{
+  background: transparent;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  z-index: 3;
+  position: relative;
+}
+
+.links {
+  right: 20px;
+  position:absolute;
+  display: flex;
+}
+.menu{
+  display:none;
+}
+.link{
+  padding: 10px;
+  text-decoration: none;
+  color:#fff;
+}
+.link:hover{
+  color: #4caf50;
+}
+div .MuiIconButton-root{
+  display: none;
+}
+.linky{
+  padding: 10px;
+  text-decoration: none;
+  color: #000;
+  font-size: 20px;
+}
+@media only screen and (max-width: 767px) {
+  .links {
+    display:none;
+  }
+  div .MuiIconButton-root{
+    display: flex;
+    color: white;
+    margin-bottom: 25px;
+  }
+}

@@ -1,0 +1,58 @@
+.confirmationPage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  margin-top: -80px;
+  color: #fff;
+  z-index: 2;
+}
+.confirmationBg{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.confirmationImage{
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    filter: brightness(50%);
+}
+.confirmation{
+  z-index: 4;
+  width: 100vw;
+}
+.confirmation h1{
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+}
+.confirmation h3{
+  font-size: 30px;
+  padding: 5px;
+  text-align: center;
+}
+.backTo{
+  left: 43.5vw;
+  width: 13vw;
+}
+@media only screen and (max-width: 767px) {
+  .confirmation h1{
+    font-size: 20px;
+    text-align: center;
+  }
+  .confirmation h3{
+    font-size: 10px;
+  }
+  .backTo{
+    width: 60vw;
+    left: 20vw;
+  }
+}

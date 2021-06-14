@@ -1,0 +1,74 @@
+.contactBg{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.contactPage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  margin-top: -80px;
+  color: #fff;
+  z-index: 2;
+}
+.contactImage{
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  filter: brightness(50%);
+}
+.contactContent{
+
+
+  max-height: 100%;
+  width: 100vw;
+   
+}
+.contactItems{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  max-height: 100%;
+  padding: 0;
+  color: #fff;
+  line-height: 1.1;
+  font-weight: bold;
+
+}
+.contactHeader{
+  font-size: 50px;
+  color: white;
+  margin-top: -400px;
+  z-index: 4;
+  overflow: hidden;
+  padding: 50px;
+}
+.contactEmail{
+  font-size: 30px;
+  color: white;
+  z-index: 4;
+  overflow: hidden;
+}
+.or{
+  font-size: 40px;
+  color: white;
+  z-index: 4;
+  overflow: hidden;
+  padding: 50px;
+}
+@media only screen and (max-width: 767px) {
+  .contactHeader{
+    margin-top: -100px;
+  }
+}

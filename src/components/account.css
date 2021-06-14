@@ -1,0 +1,76 @@
+.accountBg{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.accountPage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  margin-top: -80px;
+  color: #fff;
+  z-index: 2;
+
+}
+.bgAccount{
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  filter: brightness(50%);
+}
+.accountInfo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  max-height: 100%;
+  padding: 0;
+  color: #fff;
+  line-height: 1.1;
+  font-weight: bold;
+  z-index: 5;
+  width: 100vw;
+}
+.userName{
+  z-index: 6;
+  font-size: 50px;
+  color: white;
+  position:relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  overflow: hidden;
+  padding: 20px;
+  margin-top: -10vh;
+}
+.moreInfo{
+  text-align: left;
+  align-self: left;
+  padding: 20px;
+  margin-left: 20px;
+  font-size: 30px;
+}
+.logout{
+  width: 10vw;
+  left: 45vw;
+  right: 45vw;
+}
+@media only screen and (max-width: 767px) {
+  .moreInfo{
+    padding: 15px;
+    font-size: 20px;
+  }
+  .logout{
+    width: 30vw;
+    left: 30vw;
+    right: 30vw;
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "trips": [
+    {
+      "name": "Hunza Valley, Pakistan",
+      "image": "https://images.pexels.com/photos/1454405/pexels-photo-1454405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/5204416/pexels-photo-5204416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "place_desc": "Hunza is a mountainous valley in the autonomous Gilgit-Baltistan region of Pakistan. Hunza is situated in the northern part of Gilgit-Baltistan, Pakistan, bordering with Khyber Pakhtunkhwa to the west and the Xinjiang region of China to the north-east. The Hunza valley is situated at an elevation of 2,438 meters. ",
+      "trip_desc": [
+        "• Breakfast: Tea – Pratha – Anda – Water (Channa If Available)",
+        "• Dinner: Chicken Karachi or Chicken Biryani With supplementary Dish Daal/ Vegetable – Raita – Water",
+        "•BBQ will be also served on any one night.",
+        "• 4x4 Jeep (Shogran).",
+        "• 4x4 Jeep (Osho Forest & Glacier Point).",
+        "• Local music program (PKR 5,000 - included)",
+        "• Rooms (3-4 Person Sharing)",
+        "• Tour guide"
+      ],
+      "locations": [
+        "• Islamabad",
+        "• Mingora",
+        "• Swat",
+        "• Bahrain",
+        "• Kalam",
+        "• Osho Forest",
+        "• Glacier Point",
+        "• Shogran",
+        "• Glacier Point",
+        "• Mansehra",
+        "• River Kunhar",
+        "• Muzaffarabad",
+        "• Kashmir Aabshar",
+        "• Kewai"
+      ],
+      "days": [3,5,7],
+      "price": [5000,7500,10000],
+      "slug": "hunza-valley",
+      "favorite": true
+    },
+    {
+      "name": "Altit, Pakistan",
+      "image": "https://images.pexels.com/photos/1454409/pexels-photo-1454409.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "place_desc": "Altit Fort (Urdu: قلعہ التیت‎) is an ancient fort at Altit town in the Hunza valley in Gilgit Baltistan, Pakistan. It was originally home to the hereditary rulers of the Hunza state who carried the title Mir, although they moved to the somewhat younger Baltit fort nearby three centuries later. Altit Fort and in particular the Shikari tower is around 1100 years old, which makes it the oldest monument in the Gilgit–Baltistan. The fort has received the UNESCO Asia Pacific Heritage Award for Cultural Heritage Conservation in 2011.",
+      "trip_desc": [
+        "• Breakfast: Tea – Pratha – Anda – Water (Channa If Available)",
+        "• Dinner: Chicken Karachi or Chicken Biryani With supplementary Dish Daal/ Vegetable – Raita – Water",
+        "•BBQ will be also served on any one night.",
+        "• 4x4 Jeep (Shogran).",
+        "• 4x4 Jeep (Osho Forest & Glacier Point).",
+        "• Local music program (PKR 5,000 - included)",
+        "• Rooms (3-4 Person Sharing)",
+        "• Tour guide"
+      ],
+      "locations": [
+        "• Islamabad",
+        "• Mingora",
+        "• Swat",
+        "• Bahrain",
+        "• Kalam",
+        "• Osho Forest",
+        "• Glacier Point",
+        "• Shogran",
+        "• Glacier Point",
+        "• Mansehra",
+        "• River Kunhar",
+        "• Muzaffarabad",
+        "• Kashmir Aabshar",
+        "• Kewai"
+      ],
+      "days": [2,5,7],
+      "price": [5000,7500,10000],
+      "slug": "altit",
+      "favorite": true
+
+    },
+    {
+      "name": "Bali, Indonesia",
+      "image": "https://images.pexels.com/photos/1544351/pexels-photo-1544351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/1802183/pexels-photo-1802183.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "place_desc": "Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches and coral reefs. The island is home to religious sites such as cliffside Uluwatu Temple. To the south, the beachside city of Kuta has lively bars, while Seminyak, Sanur and Nusa Dua are popular resort towns. The island is also known for its yoga and meditation retreats",
+      "trip_desc": [
+        "• Round trip Economy class airfare valid for the duration of the holiday",
+        "• Accommodation in 3 star hotels in all locations",
+        "• Enjoy continental breakfasts every morning",
+        "• Enjoy Halal dinners in heart-warming places",
+        "• Hotel and airport taxes included",
+        "• Visa assistance fees and charges included",
+        "• Travel in comfort aboard climate controlled coaches"
+      ],
+      "locations": [
+        "• Pura Tanah Lot",
+        "• Mount Batur",
+        "• Uluwatu Temple",
+        "• Ubud Monkey Forest",
+        "• Ubud Art & Culture",
+        "• Tegallalang and Jatiluwih Rice Terraces",
+        "• Pura Ulun Danu Bratan",
+        "• Seminyak Shopping",
+        "• Nusa Dua Beach",
+        "• The Nusa Islands",
+        "• Kuta Beach",
+        "• The Sidemen Valley",
+        "• Sekumpul Waterfall",
+        "• Tirta Empul Temple"
+      ],
+      "days": [11,14,21],
+      "price": [400000,690000,890000],
+      "slug": "bali",
+      "favorite": true
+    },
+    {
+      "name": "Istanbul, Turkey",
+      "image": "https://images.pexels.com/photos/3999943/pexels-photo-3999943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/2042108/pexels-photo-2042108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "place_desc": "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics.",
+      "trip_desc": [
+        "• Round trip Economy class airfare valid for the duration of the holiday",
+        "• Accommodation in 4 star hotels in all locations",
+        "• Enjoy continental breakfasts every morning",
+        "• Halal Meals provided 3 times a day by us",
+        "• Hotel and airport taxes included",
+        "• Visa assistance fees and charges included",
+        "• Travel in comfort aboard climate controlled coaches"
+      ],
+      "locations": [
+        "• Aya Sofya",
+        "• Topkapi Palace (Topkapi Sarayi)",
+        "• Blue Mosque (Sultan Ahmet Camii)",
+        "• Basilica Cistern (Yerebatan Sarniçi)",
+        "• Hippodrome",
+        "• Istanbul Archaeology Museum",
+        "• Grand Bazaar (Kapali Çarsi)",
+        "• Süleymaniye Mosque",
+        "• Spice Bazaar (Misir Çarsisi)"
+      ],
+      "days": [11,14,21],
+      "price": [275000,399999,615000],
+      "slug": "istanbul",
+      "favorite": true
+    },
+	 {
+      "name": "New Zealand",
+      "image": "https://images.pexels.com/photos/4819589/pexels-photo-4819589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/4873262/pexels-photo-4873262.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "place_desc": "New Zealand is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island and the South Island —and more than 700 smaller islands, covering a total area of 268,021 square kilometres.",
+      "trip_desc": [
+        "• Round trip Economy class airfare valid for the duration of the holiday",
+        "• Accommodation in 3 star hotels in all locations",
+        "• Enjoy continental breakfasts every morning",
+        "• Enjoy Halal dinners in The heart of Paris",
+        "• Hotel and airport taxes included",
+        "• Visa assistance fees and charges included",
+        "• Travel in comfort aboard climate controlled coaches"
+      ],
+      "locations": [
+        "• Fiordland National Park and Milford Sound, South Island",
+        "• Bay of Islands, North Island",
+        "• Queenstown, South Island",
+        "• Lake Taupo and Tongariro National Park, North Island",
+        "• Rotorua, North Island",
+        "• Fox and Franz Josef Glaciers, South Island",
+        "• Abel Tasman National Park & the Abel Tasman Coast Track, South Island",
+        "• Aoraki/Mount Cook National Park, South Island",
+        "• Napier, Hawke's Bay, North Island"
+      ],
+      "days": [11,16,25],
+      "price": [350000,525000,625000],
+      "slug": "south-island"
+    },
+    {
+      "name": "Paris, France",
+      "image": "https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/165804/pexels-photo-165804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "place_desc": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré.",
+      "trip_desc": [
+        "• Round trip Economy class airfare valid for the duration of the holiday",
+        "• Accommodation in Paris",
+        "• Enjoy continental breakfasts every morning",
+        "• Enjoy Halal dinners in The heart of Paris",
+        "• Enjoy breathtaking view of Paris from the 2nd level of the Eiffel Tower.",
+        "• Complimentary Visa Assistance",
+        "• Travel in comfort aboard climate controlled coaches"
+      ],
+      "locations": [
+        "• Eiffel Tower",
+        "• Musée du Louvre",
+        "• Cathédrale Notre-Dame de Paris",
+        "• Avenue des Champs-Élysées",
+        "• Musée d'Orsay",
+        "• Palais Garnier, Opéra National de Paris",
+        "• Place de la Concorde",
+        "• Arc de Triomphe",
+        "• Seine River Cruises"
+      ],
+      "days": [16,25,31],
+      "price": [275000,329000,425000],
+      "slug": "paris"
+    },
+    {
+      "name": "London, England",
+      "image": "https://images.pexels.com/photos/1837591/pexels-photo-1837591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/50632/pexels-photo-50632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "place_desc": "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
+      "trip_desc": [
+        "• Visit Visa",
+        "• Halal Meals",
+        "• Loads of locations to discover",
+        "• 3 Star Hotel",
+        "• Discover the extravagant city of London with a tour guide"
+      ],
+      "locations": [
+        "• Buckingham Palace",
+        "• The Tower of London and Tower Bridge",
+        "• The British Museum",
+        "• Big Ben and Parliament",
+        "• National Gallery",
+        "• The Victoria and Albert Museum",
+        "• Piccadilly Circus and Trafalgar Square",
+        "• The Shard",
+        "• The Two Tates: Tate Britain and Tate Modern"
+      ],
+      "days": [12,17,24],
+      "price": [200000,299000,325000],
+      "slug": "london"
+    },
+    {
+      "name": "Tokyo, Japan",
+      "image": "https://images.pexels.com/photos/2385210/pexels-photo-2385210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/2599247/pexels-photo-2599247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "place_desc": "Tokyo, Japan’s busy capital, mixes the ultramodern and the traditional, from neon-lit skyscrapers to historic temples. The opulent Meiji Shinto Shrine is known for its towering gate and surrounding woods. The Imperial Palace sits amid large public gardens. The city's many museums offer exhibits ranging from classical art (in the Tokyo National Museum) to a reconstructed kabuki theater (in the Edo-Tokyo Museum).",
+      "trip_desc": [
+        "• 4 start hotel with air conditioning and king size bed",
+        "• Halal Meals",
+        "• Loads of locations to discover",
+        "• Discover the extravagant city of Tokyo with a tour guide"
+      ],
+      "locations": [
+        "• The Imperial Palace",
+        "• Ginza District",
+        "• Sensō-ji Temple",
+        "• National Museum of Nature and Science",
+        "• Ueno Park and Ueno Zoo",
+        "• Tokyo National Museum",
+        "• National Museum of Western Art",
+        "• Meiji Shrine",
+        "• Miraikan and Edo-Tokyo Museums"
+      ],
+      "days": [21,27,31],
+      "price": [300000,399000,475000],
+      "slug": "tokyo"
+    },
+    {
+      "name": "Rome, Italy",
+      "image": "https://images.pexels.com/photos/3185488/pexels-photo-3185488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "place_desc": "Rome is the capital city and a special comune of Italy, as well as the capital of the Lazio region. The city has been a major human settlement for almost three millennia. With 2,860,009 residents in 1,285 km², it is also the country's most populated comune.",
+      "trip_desc": [
+        "• Discover Rome with a travel guide",
+        "• 4 start hotel with air conditioning and king size bed",
+        "• Halal Meals",
+        "• Loads of locations to discover"
+      ],
+      "locations": [
+        "• The Colosseum and the Arch of Constantine",
+        "• Vatican City",
+        "• The Pantheon",
+        "• Roman Forum",
+        "• Trevi Fountain",
+        "• Centro Storico & the Spanish Steps",
+        "• Santa Maria Maggiore",
+        "• Piazza Navona",
+        "• Palatine Hill",
+        "• Villa Borghese Gallery and Gardens",
+        "• Castel Sant'Angelo National Museum"
+      ],
+      "days": [11,14,21],
+      "price": [150000,199000,325000],
+      "slug": "rome"
+    },
+    {
+      "name": "Dubai, UAE",
+      "image": "https://images.pexels.com/photos/1707310/pexels-photo-1707310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://images.pexels.com/photos/599982/pexels-photo-599982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "place_desc": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks",
+      "trip_desc": [
+        "• Return air ticket from Islamabad/Lahore/Karachi to Dubai",
+        "• Dubai Visit Visa",
+        "• Hotel Accommodation",
+        "• Inner city excursions including Desert Safari and Dhow Cruise"
+      ],
+      "locations": [
+        "• Burj Khalifa",
+        "• Shopping Malls ",
+        "• Dubai Museum",
+        "• Al Fahidi Quarter",
+        "• Sheikh Saeed Al-Maktoum House",
+        "• Tour Jumeirah Mosque"
+      ],
+      "days": [11,14,21],
+      "price": [250000,349000,500000],
+      "favorite": true,
+      "slug": "dubai"
+    },
+    {
+      "name": "Swat Valley, Pakistan",
+      "image": "https://images.pexels.com/photos/4577839/pexels-photo-4577839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "bg": "https://www.apricottours.pk/wp-content/uploads/2017/03/kalam-swat-valley-1.jpg",
+      "place_desc": "Swat District is a district in Malakand Division of Khyber Pakhtunkhwa province in Pakistan. Centred upon the upper portions of the Swat River, Swat was a major centre of early Buddhist thought as part of the Gandhara kingdom, and today is littered with ruins from that era.",
+      "trip_desc":  [
+        "• Breakfast: Tea – Pratha – Anda – Water (Channa If Available)",
+        "• Dinner: Chicken Karachi or Chicken Biryani With supplementary Dish Daal/ Vegetable – Raita – Water",
+        "•BBQ will be also served on any one night.",
+        "• 4x4 Jeep (Shogran).",
+        "• 4x4 Jeep (Osho Forest & Glacier Point).",
+        "• Local music program (PKR 5,000 - included)",
+        "• Rooms (3-4 Person Sharing)",
+        "• Tour guide"
+      ],
+      "locations": [
+        "• Islamabad",
+        "• Mingora",
+        "• Swat",
+        "• Bahrain",
+        "• Kalam",
+        "• Osho Forest",
+        "• Glacier Point",
+        "• Shogran",
+        "• Glacier Point",
+        "• Mansehra",
+        "• River Kunhar",
+        "• Muzaffarabad",
+        "• Kashmir Aabshar",
+        "• Kewai"
+      ],
+      "days": [3,7,11],
+      "price": [7500,13500,25000],
+      "slug": "swat-valley"
+    }
+  ]
+}
